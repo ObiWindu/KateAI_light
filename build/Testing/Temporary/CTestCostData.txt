@@ -1,0 +1,9 @@
+appstreamtest 23 0.000523705
+test_sandbox 23 0.00336494
+test_permissions 23 0.00143728
+test_llmparse 23 0.00209143
+test_session 21 0.00320957
+test_retry 23 0.00160381
+test_promptedit 21 0.00250816
+test_tools 17 0.00386336
+---
